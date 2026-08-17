@@ -141,27 +141,9 @@ python3 lessive.py
 
 Le fichier `lessive.json` sera créé automatiquement au premier lancement.
 
-## Technologies utilisées
+## Technologies & Bibliothèques utilisées
 
-* Python 3
+* Python
 * Tkinter
 * JSON
 * pathlib
-
-## Objectif du projet
-
-Le projet a été pensé comme un petit outil pratique pour les étudiants, notamment ceux qui commencent à vivre seuls et doivent apprendre à gérer les tâches du quotidien.
-
-Il sert également de projet Python simple permettant de travailler sur :
-
-* les interfaces graphiques ;
-* la sauvegarde de données ;
-* les dictionnaires ;
-* les fonctions ;
-* les calculs ;
-* la gestion de fichiers ;
-* la persistance des données.
-
-Le principe reste volontairement simple :
-
-**Ajouter son linge → suivre le poids → atteindre le seuil → faire sa lessive.**
