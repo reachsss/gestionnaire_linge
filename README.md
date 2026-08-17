@@ -1,4 +1,4 @@
-# Gestionnaire de lessive
+# Gestionnaire de linge
 
 Un petit programme Python créé pour aider les étudiants à mieux gérer leur linge.
 
@@ -113,8 +113,7 @@ Ce fichier est placé dans le même dossier que le programme Python :
 ```text
 GestionnaireLessive/
 ├── lessive.py
-├── lessive.json
-└── README.md
+└── lessive.json
 ```
 
 Cela permet de fermer le programme, voire l'éditeur de code, puis de le relancer plus tard sans perdre le linge enregistré.
